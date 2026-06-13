@@ -1,0 +1,2 @@
+# EventBoard-RTC-Driven-Message-Display-systemEventBoard-RTC-Driven-Message-Display-system
+EventBoard is an embedded systems project developed using the LPC2148 ARM7 microcontroller that automatically displays scheduled messages on a 16x2 LCD based on real-time clock (RTC) events. The system provides secure administrator access for managing schedules and selecting active messages through a keypad-based password authentication mechanism.
